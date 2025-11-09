@@ -12,7 +12,7 @@
                 {
                     "name": "Cappuccino",
                     "desc": "Espuma sedosa, cacao espolvoreado.",
-                    "img": "/src/assets/products/capuccino.png",
+                    "img": "../src/assets/products/capuccino.png",
                     "price": 65
                 },
                 {
