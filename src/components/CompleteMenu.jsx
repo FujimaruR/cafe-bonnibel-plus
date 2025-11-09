@@ -85,7 +85,7 @@ export default function MenuPage() {
             >
               <div
                 className="aspect-[4/3] rounded-xl bg-cover bg-center mb-3"
-                style={{ backgroundImage: `url(${it.img || 'https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=1200&auto=format&fit=crop'})` }}
+                style={{ backgroundImage: `url(${it.img})` }}
               />
               <div className="flex items-start justify-between gap-4">
                 <div>
