@@ -1,5 +1,7 @@
 import Navbar from '../components/Navbar';
 import History from '../components/History';
+import Calificaciones from '../components/Calificaciones';
+import Galeria from '../components/Galeria';
 import Footer from '../components/Footer';
 
 const AboutUs = () => {
@@ -8,6 +10,8 @@ const AboutUs = () => {
             <Navbar />
             <main>
                 <History />
+                <Galeria />
+                <Calificaciones />
             </main>
             <Footer />
         </div>

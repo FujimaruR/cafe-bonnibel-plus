@@ -2,7 +2,7 @@ import config from '../data/config.json';
 
 export default function Location() {
   return (
-    <section className="pt-28 md:pt-36 bg-crema min-h-screen">
+    <section className="pt-28 md:pt-36 bg-beige/20 min-h-screen">
       <div className="max-w-6xl mx-auto px-4 py-10 grid md:grid-cols-2 gap-8">
         <section>
           <h1 className="font-serif text-4xl text-cafe mb-4">Ubicación</h1>
