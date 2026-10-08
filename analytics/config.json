@@ -1,0 +1,18 @@
+{
+  "paths": [
+    "/",
+    "/Landing",
+    "/landing",
+    "/About",
+    "/about",
+    "/Contact",
+    "/contact",
+    "/Location",
+    "/location",
+    "/Menu",
+    "/menu"
+  ],
+  "forms": [
+    "demo-contact"
+  ]
+}

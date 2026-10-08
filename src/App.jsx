@@ -1,3 +1,4 @@
+import LocaleTools from './site/LocaleTools';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Landing from './pages/landing';
 import AboutUs from './pages/AboutUs';
@@ -8,6 +9,7 @@ import Menu from './pages/Menu';
 function App() {
   return (
     <Router>
+      <LocaleTools />
       <Routes>
         <Route path="/">
           <Route index element={<Landing />} />
